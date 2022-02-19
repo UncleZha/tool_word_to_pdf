@@ -1,0 +1,5 @@
+用pyinstaller生成：
+
+Pyinstaller -F main.py
+
+生成的文件在dist文件夹中

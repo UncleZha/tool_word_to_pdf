@@ -1,0 +1,11 @@
+setup.cfg
+dist
+build
+# Created by .ignore support plugin (hsz.mobi)
+*.egg-info
+*.py[cod]
+PKG-INFO
+
+.idea/
+.vscode/
+__handlers__/
